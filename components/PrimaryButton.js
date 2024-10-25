@@ -1,5 +1,5 @@
 import { View, Text, Pressable, StyleSheet } from 'react-native'
-import React from 'react'
+import React from 'react';
 
 export default function PrimaryButton({ children, onPress }) {
   return (
